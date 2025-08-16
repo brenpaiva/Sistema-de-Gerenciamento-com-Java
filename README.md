@@ -46,4 +46,4 @@ Nome: Maria | Nascimento: 18/10/2000 | Salário: 2.209,38 | Função: Operador
 3.12 - Maria: 1,82 salários mínimos
 ```
 
-Desenvolvido seguindo as melhores práticas de programação Java para demonstrar conhecimento técnico e
+
